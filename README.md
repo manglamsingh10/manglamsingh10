@@ -20,12 +20,20 @@ Here are some of my key projects that showcase my expertise:
 
 1. **[Distributed Machine Learning](https://github.com/manglamsingh10/DML_Kubeflow)**  
    A project leveraging Kubeflow to implement distributed machine learning pipelines.
+   ![image](https://github.com/user-attachments/assets/108b68e7-47a1-4c43-8b4a-d799fa904e05)
+   ![image](https://github.com/user-attachments/assets/b558ce63-3f11-4653-8d39-1987a7978b25)
 
-2. **[Custom RAG (Retrieval-Augmented Generation)](https://github.com/manglamsingh10/RAG_Custom_Document_Query)**  
+
+
+3. **[Custom RAG (Retrieval-Augmented Generation)](https://github.com/manglamsingh10/RAG_Custom_Document_Query)**  
    A custom solution for querying documents using Retrieval-Augmented Generation techniques.
+   ![image](https://github.com/user-attachments/assets/50b28a1c-abcc-4209-b975-a43532b91141)
 
-3. **[Auto ML](https://github.com/manglamsingh10/MLOps_AutoML)**  
+
+5. **[Auto ML](https://github.com/manglamsingh10/MLOps_AutoML)**  
    An automated machine learning pipeline for MLOps.
+   ![image](https://github.com/user-attachments/assets/11f86f05-c2fa-45ee-be83-39101fe31630)
+
 
 ---
 
